@@ -22,10 +22,10 @@ public class Task {
 
     public Task() { this.status = Status.PENDING; }
 
-    public Task(String title, String description, Status status) {
+    public Task(String title, String description) {
         this.title = title;
         this.description = description;
-        this.status = status;
+        this.status = Status.PENDING;
     }
 
     public Long getId() {
