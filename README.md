@@ -13,10 +13,6 @@ The frontend of this project is available [here](https://github.com/gustavommcv/
 - **PUT** `/api/v1/tasks/{id}`: Update an existing task.
 - **DELETE** `/api/v1/tasks/{id}`: Delete a task by its ID.
 
-## Setting Up the Project
-
-Commit from when I started the project: [commit](https://github.com/gustavommcv/spring-boot-crud/commit/13e67e34b7fc2ba4f8b0462a7638248de3610898).
-
 ## Project Structure
 
 Here's an overview of the main components of the Spring Boot application:
